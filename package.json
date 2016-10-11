@@ -1,0 +1,19 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "browser-sync": "^2.17.2",
+    "fs-extra": "^0.30.0",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.10",
+    "taskmodules": "^1.0.8"
+  }
+}
